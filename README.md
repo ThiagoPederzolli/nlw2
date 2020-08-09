@@ -3,9 +3,9 @@
 </h1>
 
 ## Indice:
-- [Sobre](#-Sobre)
-- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-- [Como Baixar](#-Como-Baixar)
+- [Sobre](##-Sobre)
+- [Tecnologias Utilizadas](##-Tecnologias-Utilizadas)
+- [Como Baixar](##-Como-Baixar)
 
 ---
 ## Sobre  
@@ -30,7 +30,7 @@ A plataforma surgiu na *Segunda Edição da Next Level Week* da **Rocketseat** e
  <img src="https://ik.imagekit.io/iseca49kdh/proffy_1g4pdr8D8O.jpeg">
  </h1>
 
-## Como baixar o projeto:
+## Como Baixar:
 💻
 
 ```bash
